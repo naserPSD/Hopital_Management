@@ -1,0 +1,22 @@
+
+
+Department search----> department name
+doctor search -------> doctor first name
+Employee Search -----> employee.id
+
+Doctor Shedule Search-> day
+employeeschdule search-> employee id
+
+patient search-------> patient id
+Document search------> patient id
+Admission search ----> patient_id
+bill search ---------> Admission_id
+
+bed search ----------> Room_Number
+Service search-------> service_name
+Notice search--------> department name
+
+
+
+
+
