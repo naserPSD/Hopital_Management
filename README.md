@@ -1,5 +1,4 @@
 # Hopital_Management
-README:
 Opening an Account and User Log In:
 In the Green Hospital website an employee can open an administration account.
 The Employee has to input his Employee id, new user id and new password.
